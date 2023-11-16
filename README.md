@@ -21,4 +21,4 @@ Please fork this repository ad then issue Pull Request for review
 
 ### Copyright
 
-2023
+2023 All rights reserved
